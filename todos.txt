@@ -1,0 +1,4 @@
+disable upload while already uploading an image
+disable configuration inputs while saving config
+functionality to order multiple cases
+user icon button in navbar(beetween create case and dashboard)
